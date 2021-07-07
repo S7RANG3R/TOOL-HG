@@ -14,4 +14,4 @@ $  cd TOOL-HG
 
 $  python2 TOOL-HG.PY
 
-# -=[TEAM BADS]=-
+# []TEAM BADS[]
